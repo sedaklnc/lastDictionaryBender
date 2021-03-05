@@ -1,6 +1,5 @@
 # lastDictionaryBender
 
-Insanlik icin kucuk Seda icin buyuk bir proje yaptım.
 
 Python ile web-scraping ogrenmeye calisiyorum.Kodları editorunuzde calistirdiginizda goreceginiz turkce-ingilizce anlamları Tureng uzerinden cektim.
 Hatan var diyene cevabım orhan gencebay sarkısıdır.Tamam şimdi ciddi olalım.
