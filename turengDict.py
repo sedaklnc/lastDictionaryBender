@@ -63,7 +63,7 @@ def suggest_eng_word():
         print("what did you write..I couldn't suggest any word")
 
 
-print("**********sözlüğümüze hoş geldiniz************")
+print("**********Welcome to dictionary************")
 
 
 whichLanguage = input("hangi dilden ceviri yapmak istersiniz E/T ?").upper()
@@ -77,7 +77,7 @@ if whichLanguage == "E":
 
 else:
 
-    word = input("hangi kelimenin anlamını öğrenmek istiyorsn ? ").lower()
+    word = input("hangi kelimenin anlamını öğrenmek istiyorsun ? ").lower()
     url = requests.get("https://tureng.com/en/turkish-english/" + word)
     webPage = bs(url.content, "html.parser")
     Turk_eng()
