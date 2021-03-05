@@ -10,8 +10,8 @@ Hatan var diyene cevabım orhan gencebay sarkısıdır.Tamam şimdi ciddi olalı
   When you run it in your own editor,you will see some question about your word like which is do you want to know meaning?
   After the answer you can see meaning of word.
   
-# I used the some libraries 
-
+# Libraries
+  I used these libraries:
  - BeautifulSoup
  - Requests
 
