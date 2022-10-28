@@ -2,7 +2,7 @@
 
 
 Python ile web-scraping ogrenmeye calisiyorum.Kodları editorunuzde calistirdiginizda goreceginiz turkce-ingilizce anlamları Tureng uzerinden cektim.
-Hatan var diyene cevabım orhan gencebay sarkısıdır.Tamam şimdi ciddi olalım.
+
 
 # DESCRIPTION
   Guys I developed to learn Web-Scraping with Python.I wanted to scrape Tureng.I think I did it.
